@@ -1,0 +1,11 @@
+/Users/adelaide/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.deps.json
+/Users/adelaide/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.runtimeconfig.json
+/Users/adelaide/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.runtimeconfig.dev.json
+/Users/adelaide/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.dll
+/Users/adelaide/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.pdb
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.csprojAssemblyReference.cache
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.csproj.CoreCompileInputs.cache
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.AssemblyInfoInputs.cache
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.AssemblyInfo.cs
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.dll
+/Users/adelaide/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.pdb
